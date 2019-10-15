@@ -150,7 +150,7 @@
         .header .container-custom .header-inner .mob-menu li a {
           font-family: "Proxima Nova Bold", sans-serif;
           width: 100%;
-          margin: 0 auto;
+          margin: 10px auto;
           display: block;
           text-align: center;
           text-decoration: none;
